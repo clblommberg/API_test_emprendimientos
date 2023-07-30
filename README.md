@@ -5,7 +5,7 @@
 --Paso 3. Elaborar KPI'S  de Control Financiero SQL  
 --Paso 4. Elaborar la API --NULL
 
-
+[![modelodatostest.png](https://i.postimg.cc/26Kj9c6D/modelodatostest.png)](https://postimg.cc/Q9crHq14)
 
 
 Nota: Subo proyectos incompletos porque se me suelen borrar los avances Y GIT es la soluciòn
