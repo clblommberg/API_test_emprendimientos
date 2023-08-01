@@ -30,8 +30,7 @@ Este paso tiene como objetivo mejorar la presentación y documentación del proy
 
 ### Captura de Pantalla de la API (Clientes)
 
-[apiclientes.png](https://postimg.cc/FkmfRPPS)
-
+[![apiclientes.png](https://i.postimg.cc/5yQ8sTLs/apiclientes.png)](https://postimg.cc/FkmfRPPS)
 ### Nota
 
 Este proyecto incluye tanto el diseño del modelo de datos como los registros de prueba generados de forma personalizada y mediante el uso de técnicas de IA para datos de prueba.
