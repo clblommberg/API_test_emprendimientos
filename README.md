@@ -30,7 +30,7 @@ Este paso tiene como objetivo mejorar la presentación y documentación del proy
 
 ### Captura de Pantalla de la API (Clientes)
 
-![Captura de Pantalla de la API (Clientes)](https://postimg.cc/FkmfRPPS)
+[apiclientes.png](https://postimg.cc/FkmfRPPS)
 
 ### Nota
 
