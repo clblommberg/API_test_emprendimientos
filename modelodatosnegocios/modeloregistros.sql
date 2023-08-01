@@ -13,7 +13,7 @@ fecha_nacimiento DATE,
 INSERT INTO Persona (persona_id, nombre, correo, direccion, telefono, rango_edad, fecha_nacimiento)
 VALUES
   (1,"Laurel Sweeney","sit.amet.diam@hotmail.ca","225-5965 Dolor Rd.","(391) 891-8647",,'1980-01-01'),
-  (2,"Levi Mooney","tempor.lorem.eget@icloud.edu","974-9361 Ac Rd.","1-125-774-9574",,'2000-05-15'),
+  (2,"Levi Mooney","tempor.lorem.eget@icloud.edu","974-9361 Ac Rd.","1-125-774-9574",,'1985-05-15'),
   (3,"Farrah Gonzalez","dis.parturient@outlook.org","P.O. Box 630, 8322 Lacus. St.","(667) 538-3786",,'2005-05-15'),
   (4,"Dana Massey","et@protonmail.org","Ap #282-4706 Risus Av.","1-212-988-1359",,'2010-05-15'),
   (5,"Juliet Maxwell","feugiat.lorem@google.com","181-2314 Tempor Rd.","(884) 270-0274",,'1990-05-15'),
@@ -251,81 +251,3 @@ INSERT INTO DetalleCompra (detalle_id, compra_id, producto_id, cantidad, precio)
 (9, 1008, 208, 4, 1500.75);
 
 
-UPDATE Persona
-SET fecha_nacimiento = '1980-01-01'
-WHERE persona_id = 1;
-
-UPDATE Persona  
-SET fecha_nacimiento = '2000-05-15'
-WHERE persona_id = 2;
-
-UPDATE Persona  
-SET fecha_nacimiento = '2005-05-15'
-WHERE persona_id = 3;
-
-UPDATE Persona  
-SET fecha_nacimiento = '2010-05-15'
-WHERE persona_id = 4;
-
-UPDATE Persona  
-SET fecha_nacimiento = '1990-05-15'
-WHERE persona_id = 5;
-
-UPDATE Persona  
-SET fecha_nacimiento = '1993-05-15'
-WHERE persona_id = 6;
-UPDATE Persona  
-SET fecha_nacimiento = '1994-05-15'
-WHERE persona_id = 7;
-
-UPDATE Persona  
-SET fecha_nacimiento = '2000-05-15'
-WHERE persona_id = 8;
-
-UPDATE Persona  
-SET fecha_nacimiento = '2001-05-15'
-WHERE persona_id = 9;
-
-UPDATE Persona  
-SET fecha_nacimiento = '2004-05-15'
-WHERE persona_id = 10;
-
-UPDATE Persona  
-SET fecha_nacimiento = '1980-05-15'
-WHERE persona_id = 11;
-
-UPDATE Persona  
-SET fecha_nacimiento = '1995-05-15'
-WHERE persona_id = 12;
-
-UPDATE Persona  
-SET fecha_nacimiento = '1996-05-15'
-WHERE persona_id = 13;
-
-UPDATE Persona  
-SET fecha_nacimiento = '1999-05-15'
-WHERE persona_id = 14;
-
-UPDATE Persona  
-SET fecha_nacimiento = '2001-05-15'
-WHERE persona_id = 15;
-
-UPDATE Persona  
-SET fecha_nacimiento = '2002-05-15'
-WHERE persona_id = 16;
-
-UPDATE Persona  
-SET fecha_nacimiento = '1999-05-15'
-WHERE persona_id = 17;
-
-UPDATE Persona  
-SET fecha_nacimiento = '1987-05-15'
-WHERE persona_id = 18;
-
-UPDATE Persona  
-SET fecha_nacimiento = '1986-05-15'
-WHERE persona_id = 19;
-
-UPDATE Persona  
-SET fecha_nacimiento = '2001-05-15'
-WHERE persona_id = 20;

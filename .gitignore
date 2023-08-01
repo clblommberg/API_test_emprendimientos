@@ -1,1 +1,18 @@
-revisa.txt
+revisa.md
+/modelodatosnegocios
+/backend/app/database/session.py
+/backend/app/database/__init__.py
+/env
+/
+
+# Ignorar todos los archivos pycache
+__pycache__/
+
+# Ignorar pycache en subdirectorios
+*/__pycache__/
+
+__pycache__/
+**/__pycache__/
+
+# Ignorar todos los archivos pycache
+**/*.py[cod]
