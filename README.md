@@ -37,8 +37,4 @@ Este proyecto incluye tanto el diseño del modelo de datos como los registros de
 
 ### Referencias
 
-Actualizado: Se han realizado mejoras y actualizaciones para garantizar un diseño de impacto en el proyecto.
-
----
-
-Este es un resumen del proyecto API para base de datos "storeAPP". Si tienes alguna otra pregunta o necesitas más detalles sobre algún aspecto en particular, no dudes en pedir ayuda. ¡Buena suerte con tu proyecto!
+Nota: Estan en constante mejora, siempre se puede mejorar un proyecto.
