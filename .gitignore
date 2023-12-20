@@ -1,9 +1,11 @@
-revisa.md
+
+/modelodatosnegocios 
+/backend 
 /modelodatosnegocios
-/backend/app/database/session.py
-/backend/app/database/__init__.py
-/env
-/
+
+pyproject.toml
+directory.txt
+poetry.lock
 
 # Ignorar todos los archivos pycache
 __pycache__/
