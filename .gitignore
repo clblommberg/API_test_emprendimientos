@@ -1,11 +1,9 @@
 
-/modelodatosnegocios 
-/backend 
+/app_test
 /modelodatosnegocios
-
+/server/variado.py
 pyproject.toml
-directory.txt
-poetry.lock
+
 
 # Ignorar todos los archivos pycache
 __pycache__/
